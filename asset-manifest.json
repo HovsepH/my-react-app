@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HovsepH/my-react-app.git/static/css/main.f05cafaa.css",
+    "main.js": "/HovsepH/my-react-app.git/static/js/main.e37c5109.js",
+    "static/js/453.ad6eb26e.chunk.js": "/HovsepH/my-react-app.git/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/HovsepH/my-react-app.git/index.html",
+    "main.f05cafaa.css.map": "/HovsepH/my-react-app.git/static/css/main.f05cafaa.css.map",
+    "main.e37c5109.js.map": "/HovsepH/my-react-app.git/static/js/main.e37c5109.js.map",
+    "453.ad6eb26e.chunk.js.map": "/HovsepH/my-react-app.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05cafaa.css",
+    "static/js/main.e37c5109.js"
+  ]
+}
